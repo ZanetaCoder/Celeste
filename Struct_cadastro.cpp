@@ -27,9 +27,13 @@ void abrir_lista(const char modo[])
 	
 }
 
-main()
+void tela_inicial(const char *telainicial)
 {
 	
-	abrir_lista("ab+");
+	
+	
+	
+	
 }
+
 
